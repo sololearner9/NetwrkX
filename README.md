@@ -10,3 +10,6 @@
 # ETHICAL HACKING \ SECURITY | [C.E.H](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
 <img src="https://github.com/SKKSaikia/networks/blob/master/ceh.png" height=170x><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/kali.jpg" height=170x><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/parrot.jpg" height=170x>
+
+
+CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JPfK4cHvfgRiAgEM/edit) | [v9 Slides](https://arc.bukancoder.co/Certified-Ethical-Hacker-Module-V9/) | [Test Questions](https://www.yeahhub.com/cehv9-practice-exam-questions/chapter3-cryptography.php)
