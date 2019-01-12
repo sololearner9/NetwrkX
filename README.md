@@ -5,7 +5,7 @@
 
 # NETWORKING | CCNA | R&S
 
-<img src="https://github.com/SKKSaikia/networks/blob/master/net.png" height=250px><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/ccna.png"height=250px>
+<img src="https://github.com/SKKSaikia/networks/blob/master/net.png" height=250px><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/ccna.png" height=250px>
 
 # ETHICAL HACKING \ SECURITY | [C.E.H](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
