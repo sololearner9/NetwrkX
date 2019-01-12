@@ -7,6 +7,10 @@
 
 <img src="https://github.com/SKKSaikia/networks/blob/master/net.png" height=250px><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/ccna.png" height=250px>
 
+
+<img src="https://github.com/SKKSaikia/networks/blob/master/img/hat.jpg" height=250px><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/lab1.PNG" height=250px>
+
+
 # ETHICAL HACKING \ SECURITY | [C.E.H](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
 <img src="https://github.com/SKKSaikia/networks/blob/master/ceh.png" height=170x><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/kali.jpg" height=170x><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/parrot.jpg" height=170x>
