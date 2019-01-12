@@ -17,3 +17,9 @@
 
 
 CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JPfK4cHvfgRiAgEM/edit) | [v9 Slides](https://arc.bukancoder.co/Certified-Ethical-Hacker-Module-V9/) | [Test Questions](https://www.yeahhub.com/cehv9-practice-exam-questions/chapter3-cryptography.php) | [The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker) | [CBT Nuggets](https://www.cbtnuggets.com/it-training/white-hat-hacking)
+
+- Σ WIRESHARK
+
+- Σ METASPLOIT
+
+- Σ NMAP
