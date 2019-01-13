@@ -3,13 +3,13 @@
 
 ### [" This Paper"]() is the work on CRYPTOGRAPHY and DEEP-LEARNING.
 
-- Comptia Network+ [Video](https://youtu.be/vrh0epPAC5w), []()
+- Comptia Network+ [Video](https://youtu.be/vrh0epPAC5w) : [Playlist](https://www.youtube.com/watch?v=LWJ8PHvAL6k&list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ), [CCNA Playlist](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN), [200-125 CCNA v3](https://youtu.be/XsmNJcPDb0M)
 
 # NETWORKING | CCNA | R&S
 
 <img src="https://github.com/SKKSaikia/networks/blob/master/net.png" height=250px><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/ccna.png" height=250px>
 
-- [CCNA Syllabus](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/200-125-ccna-v3.pdf), [CCNA Playlist](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN), [200-125 CCNA v3](https://youtu.be/XsmNJcPDb0M)
+- [CCNA Syllabus](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/200-125-ccna-v3.pdf)
 
 
 <img src="https://github.com/SKKSaikia/networks/blob/master/img/hat.jpg" height=250px><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/lab1.PNG" height=250px>
