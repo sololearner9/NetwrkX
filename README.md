@@ -54,3 +54,7 @@ Deep-Web/+Dark Web - [This](https://github.com/SKKSaikia/DarkK) is the repositor
 - Σ METASPLOIT | [METASPLOIT](https://www.metasploit.com/)
 
 - Σ NMAP | [NMAP](https://nmap.org/)
+
+- KALI LINUX
+
+  > [Playlist](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM)
