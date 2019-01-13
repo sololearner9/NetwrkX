@@ -15,6 +15,8 @@
 - Σ GNS3 & PACKET TRACER
 
   > [CISCO IOS <-- Important One's](https://github.com/SKKSaikia/NetwrkX/tree/master/GNS3%20IOS) but have many more (a lot , 77 GB), complete list [here](https://github.com/SKKSaikia/NetwrkX/blob/master/files/listios.csv) ; [Course /dir](https://github.com/SKKSaikia/NetwrkX/blob/master/files/listCourse.csv) ; [Books Collection](https://github.com/SKKSaikia/NetwrkX/blob/master/files/booksNet.csv) and this [video](https://youtu.be/z89u7fSsGqw) is my total Networking+ Hacking dump.
+  
+  > [CBT Nuggets - The Definitive Guide for Working with GNS3](https://www.cbtnuggets.com/it-training/gns3-definitive-guide) ; []()
 
 # ETHICAL HACKING \ SECURITY | [C.E.H](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
@@ -52,7 +54,7 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 
 - Σ WIRESHARK | [Wireshark](https://www.wireshark.org/)
   
-  > [The Complete Wireshark Video](https://youtu.be/JnKc6fptviI) ; [Hak5 - Wireshark](https://www.youtube.com/watch?v=6X5TwvGXHP0&list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W)
+  > [The Complete Wireshark Video](https://youtu.be/JnKc6fptviI) ; [Hak5 - Wireshark](https://www.youtube.com/watch?v=6X5TwvGXHP0&list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W) ; [INE - Wireshark](https://ine.com/products/wireshark-technologies) ; [Udemy - Wireshark Certified Network Analyst – WCNA](https://www.udemy.com/wireshark-wcna/)
 
 - Σ METASPLOIT | [METASPLOIT](https://www.metasploit.com/)
 
