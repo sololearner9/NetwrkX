@@ -77,4 +77,4 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 - [USB Forensics and Pentesting](https://www.pentesteracademy.com/course?id=16), [Exploiting Simple Buffer Overflows on Win32](https://www.pentesteracademy.com/course?id=13), [Pentesting with Metasploit](https://www.pentesteracademy.com/course?id=10), [Scripting Wi-Fi Pentesting Tools in Python](https://www.pentesteracademy.com/course?id=14)
  and a lot more in the official website [Pentester Academy](https://www.pentesteracademy.com/topics).
 
-* Here is my Networking+ Hacking Dump / More than 500+ GB {[Video of database](https://youtu.be/z89u7fSsGqw)}. Almost Everything listed /course/book/tests I have them, even the 40 gig Virus database. Sorry, I don't plan to make them public soon.
+☁ Here is my Networking+ Hacking Dump / More than 500+ GB {[Video of database](https://youtu.be/z89u7fSsGqw)}. Almost Everything listed /course/book/tests I have them, even the 40 gig Virus database. Sorry, I don't plan to make them public soon.
