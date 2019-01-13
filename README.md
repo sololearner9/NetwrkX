@@ -62,11 +62,11 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
   
 - Σ NMAP | [NMAP](https://nmap.org/)
 
-  > [HackerSploit - NMAP](https://www.youtube.com/watch?v=5MTZdN9TEO4&list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx) ; [Advanced NMAP Techniques](https://youtu.be/7XMIFTRiAGA) ; [HakTip: NMap - The Network Mapper for Gurus](https://www.youtube.com/watch?v=iUZ6nTMO8K0&list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO)
+  > [HackerSploit - NMAP](https://www.youtube.com/watch?v=5MTZdN9TEO4&list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx) ; [Advanced NMAP Techniques](https://youtu.be/7XMIFTRiAGA) ; [HakTip: NMap - The Network Mapper for Gurus](https://www.youtube.com/watch?v=iUZ6nTMO8K0&list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO) ; [Network Security Testing With NMAP](https://www.pluralsight.com/courses/network-security-testing-nmap)
 
 - Σ [KALI LINUX](https://www.kali.org/) / [Parrot OS](https://www.parrotsec.org/)
 
-  > Kali - [Playlist](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM) ; [Playlist 2](https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw) ; Parrot - [ParrotSec School](https://www.youtube.com/channel/UCyIDFTGALbem6w74_8dPDxg) ; [Wireless Penetration Testing with Kali Linux & Raspberry Pi](https://www.udemy.com/penetration-testing-using-raspberry-pi/)
+  > Kali - [Playlist](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM) ; [Playlist 2](https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw) ; Parrot - [ParrotSec School](https://www.youtube.com/channel/UCyIDFTGALbem6w74_8dPDxg) ; [Wireless Penetration Testing with Kali Linux & Raspberry Pi](https://www.udemy.com/penetration-testing-using-raspberry-pi/) ; [Kali Linux Tutorial For Beginners](https://www.udemy.com/kali-linux-tutorial-for-beginners/) ; [Penetration Testing: Advanced Kali Linux](https://www.lynda.com/Linux-tutorials/Penetration-Testing-Advanced-Kali-Linux/647673-2.html) 
   
 - Σ PENETRATION TESTING
   
