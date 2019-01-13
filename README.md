@@ -14,7 +14,7 @@
 
 - Σ GNS3 & PACKET TRACER
 
-  > [CISCO IOS <-- Important One's](https://github.com/SKKSaikia/NetwrkX/tree/master/GNS3%20IOS) but I have most of them, complete list [here](https://github.com/SKKSaikia/NetwrkX/blob/master/files/listios.csv) ; [Course /dir](https://github.com/SKKSaikia/NetwrkX/blob/master/files/listCourse.csv) ; [Books Collection](https://github.com/SKKSaikia/NetwrkX/blob/master/files/booksNet.csv) and this [video](https://youtu.be/z89u7fSsGqw) is my total Networking+ Hacking dump.
+  > [CISCO IOS <-- Important One's](https://github.com/SKKSaikia/NetwrkX/tree/master/GNS3%20IOS) but have many more (a lot , 77 GB), complete list [here](https://github.com/SKKSaikia/NetwrkX/blob/master/files/listios.csv) ; [Course /dir](https://github.com/SKKSaikia/NetwrkX/blob/master/files/listCourse.csv) ; [Books Collection](https://github.com/SKKSaikia/NetwrkX/blob/master/files/booksNet.csv) and this [video](https://youtu.be/z89u7fSsGqw) is my total Networking+ Hacking dump.
 
 # ETHICAL HACKING \ SECURITY | [C.E.H](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 
