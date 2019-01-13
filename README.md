@@ -63,3 +63,7 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 - Σ [KALI LINUX](https://www.kali.org/) / [Parrot OS](https://www.parrotsec.org/)
 
   > Kali - [Playlist](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM) ; [Playlist 2](https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw) ; Parrot - [ParrotSec School](https://www.youtube.com/channel/UCyIDFTGALbem6w74_8dPDxg) 
+  
+  - PENETRATION TESTING
+  
+  > Web App Penetration Testing - [Video](https://youtu.be/2_lswM1S264) , [Playlist](https://youtu.be/lZlqr2PFJIo)
