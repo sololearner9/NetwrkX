@@ -98,3 +98,5 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
  and a lot more in the official website [Pentester Academy](https://www.pentesteracademy.com/topics).
 
 ☁ My Networking & Hacking Resources, Summing up to more than 500+ GB { Here is the [Video](https://youtu.be/z89u7fSsGqw) of the database}. Almost Everything listed in the repository -  /course/book/tests/labs I have them for personal reference. Please consider Buying, the resources yourself as the original authors have put in a lot of effort. I bought the books as well the videos. Buy/Support them, someone have put in a lot of effort and it is their job, their source of income. I don't plan to make the resources public.
+
+<b> NEXT STEPS = CCNP->CCIE | ECSA->LPT | CISSP </b>
