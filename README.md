@@ -32,12 +32,12 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 
 - BOOKS:
 
-/ [Gray Hat Hacking The Ethical Hackers Handbook](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Gray%20Hat%20Hacking%20The%20Ethical%20Hackers%20Handbook.pdf) <br/>
-/ [Hacking The Art Of Exploitation](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Hacking%20The%20Art%20Of%20Exploitation%202nd%20Edition%20V413HAV.pdf) <br/>
-/ [Julian Assange - When Google Met WikiLeaks](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Julian%20Assange%20-%20When%20Google%20Met%20WikiLeaks%20%5B2014%5D%5BA%5D.pdf) <br/>
-/ [ECSA - Penetration Testing Communication Media Testing](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Penetration%20Testing%20Communication%20Media%20Testing.pdf) <br/>
-/ [ECSA - Penetration Testing Procedures & Methodologies](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Penetration%20Testing%20Procedures%20%26%20Methodologies.pdf) <br/>
-/ [Social Engineering - The Art of Human Hacking](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Social%20Engineering%20-%20The%20Art%20of%20Human%20Hacking.pdf) <br/>
+/ [Gray Hat Hacking The Ethical Hackers Handbook](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Gray%20Hat%20Hacking%20The%20Ethical%20Hackers%20Handbook.pdf)
+/ [Hacking The Art Of Exploitation](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Hacking%20The%20Art%20Of%20Exploitation%202nd%20Edition%20V413HAV.pdf)
+/ [Julian Assange - When Google Met WikiLeaks](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Julian%20Assange%20-%20When%20Google%20Met%20WikiLeaks%20%5B2014%5D%5BA%5D.pdf)
+/ [ECSA - Penetration Testing Communication Media Testing](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Penetration%20Testing%20Communication%20Media%20Testing.pdf)
+/ [ECSA - Penetration Testing Procedures & Methodologies](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Penetration%20Testing%20Procedures%20%26%20Methodologies.pdf)
+/ [Social Engineering - The Art of Human Hacking](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Social%20Engineering%20-%20The%20Art%20of%20Human%20Hacking.pdf)
 
 ### CEH v10 Course outline:
 
