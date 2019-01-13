@@ -66,6 +66,6 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
   
 - Σ PENETRATION TESTING
   
-  > Web App Penetration Testing - [Video](https://youtu.be/2_lswM1S264) , [Playlist](https://youtu.be/lZlqr2PFJIo)
-  > Network Penetration Testing - [SEC560 Network Penetration Testing and Ethical Hacking](https://www.sans.org/course/network-penetration-testing-ethical-hacking)
-  > Mobile Device Security - [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/course/mobile-device-security-ethical-hacking), [Android Hacking And Penetration Testing](https://www.udemy.com/android-hacking-and-penetration-testing/)
+  > ¡ Web App Penetration Testing - [Video](https://youtu.be/2_lswM1S264) , [Playlist](https://youtu.be/lZlqr2PFJIo)
+  > ¡ Network Penetration Testing - [SEC560 Network Penetration Testing and Ethical Hacking](https://www.sans.org/course/network-penetration-testing-ethical-hacking)
+  > ¡ Mobile Device Security - [SEC575: Mobile Device Security and Ethical Hacking](https://www.sans.org/course/mobile-device-security-ethical-hacking), [Android Hacking And Penetration Testing](https://www.udemy.com/android-hacking-and-penetration-testing/)
