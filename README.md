@@ -61,6 +61,6 @@ Deep-Web/+Dark Web - [This](https://github.com/SKKSaikia/DarkK) is the repositor
 
   > [HackerSploit - NMAP](https://www.youtube.com/watch?v=5MTZdN9TEO4&list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx) ; [Advanced NMAP Techniques](https://youtu.be/7XMIFTRiAGA) ; [HakTip: NMap - The Network Mapper for Gurus](https://www.youtube.com/watch?v=iUZ6nTMO8K0&list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO)
 
-- [KALI LINUX](https://www.kali.org/) / [Parrot OS](https://www.parrotsec.org/)
+- Σ [KALI LINUX](https://www.kali.org/) / [Parrot OS](https://www.parrotsec.org/)
 
   > Kali - [Playlist](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM) ; [Playlist 2](https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw) ; Parrot - [ParrotSec School](https://www.youtube.com/channel/UCyIDFTGALbem6w74_8dPDxg) 
