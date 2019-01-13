@@ -20,9 +20,11 @@
 
 <img src="https://github.com/SKKSaikia/networks/blob/master/ceh.png" height=170x><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/kali.jpg" height=170x><a> </a><img src="https://github.com/SKKSaikia/networks/blob/master/img/parrot.jpg" height=170x>
 
+- COURSES : 
+  > [CBT Nuggets CEHv9](https://github.com/SKKSaikia/NetwrkX/blob/master/files/%5BCBT%20Nuggets%2C%20Keith%20Barker%5D%20EC%20Council%20Certified%20Ethical%20Hacker%20v9.0%20%5B2016%2C%20ENG%5D.torrent)
 
 CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JPfK4cHvfgRiAgEM/edit) | [v9 Slides](https://arc.bukancoder.co/Certified-Ethical-Hacker-Module-V9/) | [Test Questions](https://www.yeahhub.com/cehv9-practice-exam-questions/chapter3-cryptography.php) | [The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker) | [CBT Nuggets](https://www.cbtnuggets.com/it-training/white-hat-hacking) | [CEHv9 Notes](https://github.com/SKKSaikia/NetwrkX/tree/master/docs/CEHv9-Notes-master) | [CEHv10 Brochure](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/CEHv10-Brochure.pdf) | [TP-Ethical Hacking](https://www.tutorialspoint.com/ethical_hacking/) | [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/playlists)
-| [Hak5](https://www.youtube.com/user/Hak5Darren) | Deep-Web/+Dark Web - 🔥 [THIS](https://github.com/SKKSaikia/DarkK)🔥 is the repository to Enter the <b>World of Mystery</b>.
+| [Hak5](https://www.youtube.com/user/Hak5Darren) | [Blockmon R. - CEH v9 Certified Ethical Hacker Version 9 Practice Tests](https://github.com/SKKSaikia/NetwrkX/tree/master/docs/Blockmon%20R.%20-%20CEH%20v9%20Certified%20Ethical%20Hacker%20Version%209%20Practice%20Tests%20-%202016) | [Rahalkar S.A. - Certified Ethical Hacker (CEH) Foundation Guide](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/Rahalkar%20S.A.%20-%20Certified%20Ethical%20Hacker%20(CEH)%20Foundation%20Guide%20-%202016.PDF) | [CEHv9 Toolkit](https://github.com/SKKSaikia/NetwrkX/blob/master/files/Certified%20Ethical%20Hacker%20(CEH)%20v9%20Tool%20Kit%20(Software%20%26%20PDF%20Slides)%20v9%20%5B2015%2C%20ENG%5D.torrent) | []() | []() | Deep-Web/+Dark Web - 🔥 [THIS](https://github.com/SKKSaikia/DarkK)🔥 is the repository to Enter the <b>World of Mystery</b>.
 
 ### CEH v10 Course outline:
 
