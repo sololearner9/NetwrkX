@@ -72,7 +72,7 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 
 ## [Pentester Academy](https://www.pentesteracademy.com/topics) 
 
-<img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/OVERFLOW.png" height=50px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/SHELLCODING64.png" height=50px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/for.png" height=50px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/gad.png" height=50px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/net.png" height=50px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/webapp.png" height=50px>
+<img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/OVERFLOW.png" height=150px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/SHELLCODING64.png" height=150px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/for.png" height=150px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/gad.png" height=150px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/net.png" height=150px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/webapp.png" height=150px>
 
 - [USB Forensics and Pentesting](https://www.pentesteracademy.com/course?id=16), [Exploiting Simple Buffer Overflows on Win32](https://www.pentesteracademy.com/course?id=13)
  and a lot more in the official website [Pentester Academy](https://www.pentesteracademy.com/topics).
