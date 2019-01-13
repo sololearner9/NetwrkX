@@ -58,7 +58,7 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 
 - Σ METASPLOIT | [METASPLOIT](https://www.metasploit.com/)
 
-  > [thenewboston - Metasploit](https://www.youtube.com/watch?v=BVZBcNDDC-4&list=PL6gx4Cwl9DGBmwvjJoWhM4Lg5MceSbsja) , [Metasploit Course 2018](https://youtu.be/R1GpdaAPdw4) ; [HackerPloit](https://www.youtube.com/watch?v=8lR27r8Y_ik&t=570s) 
+  > [thenewboston - Metasploit](https://www.youtube.com/watch?v=BVZBcNDDC-4&list=PL6gx4Cwl9DGBmwvjJoWhM4Lg5MceSbsja) , [Metasploit Course 2018](https://youtu.be/R1GpdaAPdw4) ; [HackerPloit](https://www.youtube.com/watch?v=8lR27r8Y_ik&t=570s) ; [Learn Hacking Windows 10 Using Metasploit From Scratch](https://www.udemy.com/learn-hacking-10-windows-using-metasploit-from-scratch/) ; [Exploit Development and Execution with the Metasploit Framework](https://www.pluralsight.com/courses/exploit-development-execution-metasploit-framework) ; [Hacking and Penetration Testing from Scratch with METASPLOIT](https://www.udemy.com/hacking-academy-metasploit-penetration-tests-from-scratch/) 
   
 - Σ NMAP | [NMAP](https://nmap.org/)
 
