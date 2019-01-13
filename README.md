@@ -74,6 +74,6 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 
 <img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/OVERFLOW.png" height=130px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/SHELLCODING64.png" height=130px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/for.png" height=130px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/gad.png" height=130px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/net.png" height=130px><a> </a><img src="https://github.com/SKKSaikia/NetwrkX/blob/master/img/pen/webapp.png" height=130px>
 
-- [USB Forensics and Pentesting](https://www.pentesteracademy.com/course?id=16), [Exploiting Simple Buffer Overflows on Win32](https://www.pentesteracademy.com/course?id=13)
+- [USB Forensics and Pentesting](https://www.pentesteracademy.com/course?id=16), [Exploiting Simple Buffer Overflows on Win32](https://www.pentesteracademy.com/course?id=13), [Pentesting with Metasploit](https://www.pentesteracademy.com/course?id=10), [Scripting Wi-Fi Pentesting Tools in Python](https://www.pentesteracademy.com/course?id=14)
  and a lot more in the official website [Pentester Academy](https://www.pentesteracademy.com/topics).
 
