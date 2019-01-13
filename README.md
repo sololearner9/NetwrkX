@@ -3,7 +3,7 @@
 
 ### [" This Paper"]() is the work on CRYPTOGRAPHY and DEEP-LEARNING.
 
-- Comptia Network+ [Video](https://youtu.be/vrh0epPAC5w) : [Playlist](https://www.youtube.com/watch?v=LWJ8PHvAL6k&list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ), [CCNA Playlist](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN), [200-125 CCNA v3](https://youtu.be/XsmNJcPDb0M)
+- Comptia Network+ [Video](https://youtu.be/vrh0epPAC5w) : [Playlist](https://www.youtube.com/watch?v=LWJ8PHvAL6k&list=PLG49S3nxzAnnXcPUJbwikr2xAcmKljbnQ), CCNA - [Playlist](https://www.youtube.com/watch?v=n2D1o-aM-2s&list=PLh94XVT4dq02frQRRZBHzvj2hwuhzSByN), [200-125 CCNA v3](https://youtu.be/XsmNJcPDb0M)
 
 # NETWORKING | CCNA | R&S
 
