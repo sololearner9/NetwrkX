@@ -21,8 +21,7 @@
 
 
 CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JPfK4cHvfgRiAgEM/edit) | [v9 Slides](https://arc.bukancoder.co/Certified-Ethical-Hacker-Module-V9/) | [Test Questions](https://www.yeahhub.com/cehv9-practice-exam-questions/chapter3-cryptography.php) | [The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker) | [CBT Nuggets](https://www.cbtnuggets.com/it-training/white-hat-hacking) | [CEHv9 Notes](https://github.com/SKKSaikia/NetwrkX/tree/master/docs/CEHv9-Notes-master) | [CEHv10 Brochure](https://github.com/SKKSaikia/NetwrkX/blob/master/docs/CEHv10-Brochure.pdf) | [TP-Ethical Hacking](https://www.tutorialspoint.com/ethical_hacking/) | [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/playlists)
-| [Hak5](https://www.youtube.com/user/Hak5Darren)
-Deep-Web/+Dark Web - [This](https://github.com/SKKSaikia/DarkK) is the repository to Enter the World of Mystery.
+| [Hak5](https://www.youtube.com/user/Hak5Darren) | Deep-Web/+Dark Web - [This](https://github.com/SKKSaikia/DarkK) is the repository to Enter the World of Mystery.
 
 ### CEH v10 Course outline:
 
