@@ -55,6 +55,6 @@ Deep-Web/+Dark Web - [This](https://github.com/SKKSaikia/DarkK) is the repositor
 
 - Σ NMAP | [NMAP](https://nmap.org/)
 
-- KALI LINUX
+- [KALI LINUX](https://www.kali.org/) / [Parrot OS](https://www.parrotsec.org/)
 
-  > [Playlist](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM)
+  > [Playlist](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM) ; [Playlist 2](https://www.youtube.com/watch?v=ElWo5fd4rIU&list=PLYmlEoSHldN7HJapyiQ8kFLUsk_a7EjCw) ; []()
