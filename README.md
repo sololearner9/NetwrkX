@@ -20,26 +20,26 @@ CEH v9 [Notes](https://docs.google.com/document/d/1YvAOM1o6qkgFEdzJpn01rLRBGV8JP
 
 ### CEH v10 Course outline:
 
-    Introduction to Ethical Hacking
-    Footprinting and Reconnaissance
-    Scanning Networks
-    Enumeration
-    Vulnerability Analysis
-    System Hacking
-    Malware Threats
-    Sniffing
-    Social Engineering
-    Denial-of-Service
-    Session Hijacking
-    Evading IDS, Firewalls, and Honeypots
-    Hacking Web Servers
-    Hacking Web Applications
-    SQL Injection
-    Hacking Wireless Networks
-    Hacking Mobile Platforms
-    IoT Hacking
-    Cloud Computing
-    Cryptography
+    ♀ Introduction to Ethical Hacking
+    ♀ Footprinting and Reconnaissance
+    ♀ Scanning Networks
+    ♀ Enumeration
+    ♀ Vulnerability Analysis
+    ♀ System Hacking
+    ♀ Malware Threats
+    ♀ Sniffing
+    ♀ Social Engineering
+    ♀ Denial-of-Service
+    ♀ Session Hijacking
+    ♀ Evading IDS, Firewalls, and Honeypots
+    ♀ Hacking Web Servers
+    ♀ Hacking Web Applications
+    ♀ SQL Injection
+    ♀ Hacking Wireless Networks
+    ♀ Hacking Mobile Platforms
+    ♀ IoT Hacking
+    ♀ Cloud Computing
+    ♀ Cryptography
 
 - Σ WIRESHARK | [Wireshark](https://www.wireshark.org/)
 
